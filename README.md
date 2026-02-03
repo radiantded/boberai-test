@@ -1,4 +1,4 @@
-### BoberAI Test Task
+# BoberAI Test Task
 
 Тестовый backend-сервис на FastAPI, который принимает задачи через HTTP API и обрабатывает их асинхронно с использованием очереди сообщений и PostgreSQL
 
